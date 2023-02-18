@@ -1,0 +1,67 @@
+body{
+    background: #018273;
+}
+
+.contac {
+    width: 960px;
+    margin: 0px auto;
+
+
+}
+.contac h1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+
+}
+i{
+    color: #018273;
+}
+
+.from1{
+    padding: 5px 20px;
+    background: white;
+}
+.from1-1{
+    display: flex;
+
+}
+.nd2>.email{
+    color:  #018273; ;
+}
+.nd2{
+    padding: 0px 36px;
+}
+.map i.bx{
+    font-size: 140px;
+    margin: -15px 140px;
+}
+.from2{
+    padding: 46px 0px;
+}
+input{
+    width: 200px;
+    height: 35px;
+    outline:  none;
+}
+.name2{
+    padding: 15px 0px;
+}
+textarea{
+    outline:  none;
+}
+.from2{
+    display: flex;
+}
+.from2-2{
+    padding: 0px 50px;
+}
+.button{
+    float: right;
+    padding: 30px 0px;
+}
+.icon i{
+    color: white;
+    float: right;
+    padding: 30px 10px;
+    font-size: 25px;
+}
